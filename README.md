@@ -1,12 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Abhijit</h1>
-<h3 align="center">A passionate coder!!!</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit2712&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit2712" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijit2712" alt="abhijit2712" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce_App](https://ecommerce-app-8dyp.onrender.com/)
 
@@ -30,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijit2712&show_icons=true&locale=en&layout=compact" alt="abhijit2712" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijit2712&show_icons=true&locale=en" alt="abhijit2712" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit2712&" alt="abhijit2712" /></p>
