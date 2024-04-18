@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit2712&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit2712" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce_App](https://ecommerce-app-8dyp.onrender.com/)
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **abhijit.u.wagh@gmal.com**
